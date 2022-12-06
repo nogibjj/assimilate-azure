@@ -1,6 +1,13 @@
 # assimilate-azure
 Repo for learning Azure
 
+## Lesson 3:  Use Azure Functions to build out examples
+
+
+## Lesson 2:
+
+Gotcha:  Was totally confused between Azure resources extension and Azure Functions.  You must use Azure Functions to edit code!!!
+
 ## Lesson1
 
 * Things to explore more:  cloudrive
